@@ -1,5 +1,5 @@
 /* 
- * @Jorge Herr·n
+ * @Jorge Herr√°n
  * V1
  * 
  */
@@ -10,8 +10,8 @@ package Window;
 
 
 import java.util.ArrayList;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
+import javax.swing.JFrame; //Importo clase JFrame del paquete extendido swing
+import javax.swing.JLabel; //Importo clase JFrame del paquete extendido swing
 
 
 public class Window {
